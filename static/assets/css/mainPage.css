@@ -1,0 +1,15 @@
+.design {
+  background-color: rgb(32, 122, 223);
+  color: white;
+}
+.design:hover {
+  background-color: rgb(43, 105, 199);
+  color: white;
+}
+.radius_padding {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}

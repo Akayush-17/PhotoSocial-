@@ -1,0 +1,35 @@
+
+body{
+    background: url("/static/assets/images/background/d.png") no-repeat center center/cover  ;
+    height: 100vh;
+    
+}
+#nav{
+    background-color: #36454F;
+}
+#nabv{
+    background:#FFAC41;
+}
+#form{
+    background-color: #323232; 
+    width:25%;
+    border-radius: 10px;
+    
+    
+}
+#heading{
+    color:#FFAC41;
+}
+#heading1{
+    color:white;
+    text-align: center;
+}
+ .capitalize{
+    color: whitesmoke;
+}
+#bottom{
+    color:WHITE;
+}
+#hex{
+    background:#FFAC41;
+}

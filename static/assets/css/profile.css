@@ -1,0 +1,9 @@
+.followInfo {
+  cursor: default;
+  background-color: rgb(32, 122, 223);
+  font-size: 27px;
+  color: white;
+}
+.strip:hover {
+  background-color: white;
+}
